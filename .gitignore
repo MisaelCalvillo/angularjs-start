@@ -2,3 +2,7 @@
 
 /node_modules/*
 package-lock.json
+
+# Ignore AngularJS hosted because it will install every time the app is installed
+
+/Scripts/*
