@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MisaelCalvillo/angularjs-start/issues"
   },
-  "homepage": "https://github.com/MisaelCalvillo/angularjs-start#readme"
+  "homepage": "https://github.com/MisaelCalvillo/angularjs-start#readme",
+  "dependencies": {
+    "angular": "^1.6.9"
+  }
 }
